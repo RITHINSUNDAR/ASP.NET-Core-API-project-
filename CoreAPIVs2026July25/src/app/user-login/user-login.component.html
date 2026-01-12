@@ -1,0 +1,17 @@
+<div class="container mx-auto max-w-md p-8 shadow-lg rounded-lg">
+    <h2 class="text-2xl font-bold text-center mb-6">Login Form</h2>
+
+    <form (ngSubmit)="onLogin()">
+
+        <label for="Username">User Name</label>
+        <input type="text" id="uname" [(ngModel)]="logData.Username" name="username" required placeholder="Enter your UserName" />
+
+        <label for="Password">Password</label>
+        <input type="password" id="pwd" [(ngModel)]="logData.Password" name="password" required placeholder="Enter your password" />
+
+        <button type="submit">Login</button>
+        <br/>
+        <br/>
+        <label class="text-danger">{{loginResponse}}</label>
+    </form>
+</div>

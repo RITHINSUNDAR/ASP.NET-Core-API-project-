@@ -1,0 +1,31 @@
+.profile-container {
+    text-align: center;
+}
+
+.profile-table {
+    width: 60%;
+    margin: auto;
+    border-collapse: collapse;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.profile-heading {
+    color: rgb(205, 61, 8);
+}
+
+.profile-table th,
+.profile-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: left;
+}
+
+.profile-table th {
+    background-color: rgb(107, 47, 106);
+    color: white;
+}
+
+.profile-img {
+    border-radius: 8px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+}
