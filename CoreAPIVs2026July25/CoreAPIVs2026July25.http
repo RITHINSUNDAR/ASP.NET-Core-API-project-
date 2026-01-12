@@ -1,0 +1,6 @@
+@CoreAPIVs2026July25_HostAddress = http://localhost:5189
+
+GET {{CoreAPIVs2026July25_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

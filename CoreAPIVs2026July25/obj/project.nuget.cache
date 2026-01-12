@@ -1,0 +1,21 @@
+{
+  "version": 2,
+  "dgSpecHash": "ZLFS5Y076Bw=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rithi\\source\\repos\\CoreAPIVs2026July25\\CoreAPIVs2026July25\\CoreAPIVs2026July25.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.0\\microsoft.aspnetcore.openapi.10.0.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.extensions.apidescription.server\\10.0.0\\microsoft.extensions.apidescription.server.10.0.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\microsoft.openapi\\2.3.0\\microsoft.openapi.2.3.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\runtime.native.system.data.sqlclient.sni\\4.7.0\\runtime.native.system.data.sqlclient.sni.4.7.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-arm64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\runtime.win-x64.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x64.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\runtime.win-x86.runtime.native.system.data.sqlclient.sni\\4.4.0\\runtime.win-x86.runtime.native.system.data.sqlclient.sni.4.4.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\swashbuckle.aspnetcore\\10.0.0\\swashbuckle.aspnetcore.10.0.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\10.0.0\\swashbuckle.aspnetcore.swagger.10.0.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\10.0.0\\swashbuckle.aspnetcore.swaggergen.10.0.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\10.0.0\\swashbuckle.aspnetcore.swaggerui.10.0.0.nupkg.sha512",
+    "C:\\Users\\rithi\\.nuget\\packages\\system.data.sqlclient\\4.8.6\\system.data.sqlclient.4.8.6.nupkg.sha512"
+  ],
+  "logs": []
+}
